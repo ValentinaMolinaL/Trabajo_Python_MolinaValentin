@@ -1,0 +1,33 @@
+[
+    {
+        "ID": "Ventas", 
+        "Personas": 
+        [
+            {
+                "Fecha": "2024-08-08 02:08:52.421257", 
+                "Nombre": "2", "Direccion": "2", 
+                "Empleado": "1", "Producto": 
+                [
+                    {
+                        "NombreP": "Pan de Bono", 
+                        "Cant": 2, 
+                        "PrecioP": 1400
+                    }
+                ]
+            }, 
+            {
+                "Fecha": "2024-08-08 02:23:43.320303", 
+                "Nombre": "Jair", 
+                "Direccion": "lolo", 
+                "Empleado": "2", 
+                "Producto": 
+                    [
+                        {
+                            "NombreP": "Pastel de Vainilla", 
+                            "Cant": 5, "PrecioP": 25000
+                        }
+                    ]
+                }
+        ]
+    }
+]

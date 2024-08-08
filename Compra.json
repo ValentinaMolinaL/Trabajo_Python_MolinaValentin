@@ -1,0 +1,16 @@
+[
+    {
+        "ID": "Compra",
+        "Personas": [
+            {
+                "Fecha": "2024-08-08 02:19:33.556141",
+                "Nombre": "2",
+                "Numero": 2,
+                "Producto": "2",
+                "Cant": 2,
+                "Precio Unitario": 2,
+                "Precio Total": 4
+            }
+        ]
+    }
+]
